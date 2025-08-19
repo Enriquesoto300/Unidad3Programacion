@@ -59,7 +59,7 @@ def eliminar_estudiante():
     else:
         print("ID no encontrado.\n")
 
-
+#Menu
 while True:
     print("=== Gestión de Estudiantes ===")
     print("1. Agregar estudiante")
@@ -81,4 +81,4 @@ while True:
         print("¡Hasta luego!")
         break
     else:
-        print("Opcion no válida. Intenta de nuevo.\n")
+        print("Opción no válida. Intenta de nuevo.\n")
