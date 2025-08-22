@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-# Sistema de Gestión de Aventuras RPG - Proyecto Final Grupal
 
 import json
 import os
